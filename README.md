@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JohnDiv1517
+- 👋 Hi, I’m @johnjohn
 - 👀 I’m interested in ... Visual Studio Code and PHP Coding
 - 🌱 I’m currently learning ... Visual Studio Code and PHP Coding Too
 
